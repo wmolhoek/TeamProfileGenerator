@@ -1,10 +1,5 @@
-# Team Profile Generator
+Live: ttps://wmolhoek.github.io/TeamProfileGenerator/ 
 
-A simple node app to create a visual team profile.
-
-### Completed Profile
-
-![Completed team profile](https://user-images.githubusercontent.com/15653252/74109410-36ad9080-4b51-11ea-999c-0527700acebb.png)
 
 ### Using the app
 
